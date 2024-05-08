@@ -1,0 +1,10 @@
+{
+  "collectionName": "components_shared_widgets",
+  "info": {
+    "displayName": "Widget",
+    "icon": "command",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {}
+}
